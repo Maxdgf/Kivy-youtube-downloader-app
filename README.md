@@ -1,2 +1,10 @@
 # Kivy-youtube-downloader-app
-Простое приложение на kivy с помощью которого можно скачивать видео и аудио с youtube. 
+A simple application on kivy with which you can download videos and audio from youtube.
+
+<h1>Requirements:</h1>
+
+##
+    pip install kivy
+
+##
+    pip install pytube
